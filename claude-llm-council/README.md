@@ -32,7 +32,7 @@ adapts the [LLM Council](https://github.com/karpathy/llm-council)-style delibera
 
 ### Option A — as a plugin (one-line, recommended)
 
-In Claude Code, replace `YOUR_GITHUB_USERNAME` with your handle after you push this repo:
+In Claude Code, replace `ranjay-kum-shan` with your handle after you push this repo:
 
 ```
 /plugin marketplace add YOUR_GITHUB_USERNAME/claude-llm-council
